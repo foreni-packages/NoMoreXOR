@@ -1,3 +1,12 @@
+Installation : 
+
+This module requires installation of yara-python.
+
+1) Install it using : yum -y install yara-python (In case of any issue, install forensics reporitory for your OS (https://forensics.cert.org/) and then try using below command.
+
+	yum -y --enablerepo=forensics install yara-python
+2) Clone this repository and then run the program as python ./NoMoreXOR.py
+
 NoMoreXOR.py
 =============
 
